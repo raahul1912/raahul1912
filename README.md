@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+Experienced Developer with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, MySQL, Javascript, Microservices Architecture, System Design etc.
