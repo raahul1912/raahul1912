@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **raahul1912/raahul1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
