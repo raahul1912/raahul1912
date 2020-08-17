@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ### About Me
 Experienced Developer with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, MySQL, Javascript, Microservices Architecture, System Design etc.
+
+### Roles & Responsibilities
+Involved in deployment process and designing the architecture of the project.
+Designed NodeJS Microservices using Express.
+Developed database integration with MongoDB and MariaDb.
+Database interaction layer with code using Couchbase and Elasticsearch.
+Performed system level testing to verify software quality and function before it was released.
