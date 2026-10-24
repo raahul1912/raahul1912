@@ -1,23 +1,33 @@
 # Hi there, I'm Rahul Singh 👋
 
-### Full-Stack Engineer | Technical Lead
+### Technical Lead | Full-Stack Engineer
 
-- Node.js, TypeScript, React, NestJS, Microservices, REST/GraphQL APIs
-- AWS, Azure, Docker, Kubernetes, Kafka, Redis, MongoDB, MySQL
-- AI-assisted engineering workflows using OpenCode and AI agents
-- Portfolio: [iridescent-zuccutto-1f4928.netlify.app](https://iridescent-zuccutto-1f4928.netlify.app/)
-- LinkedIn: [rahul-singh-3633a780](https://www.linkedin.com/in/rahul-singh-3633a780/)
-- GitHub: [raahul1912](https://github.com/raahul1912)
+I build scalable web applications and cloud-native systems with 9+ years of experience in Node.js, TypeScript, React, and microservices architecture.
+
+- 💼 Currently working at Bridgenext on large-scale TMS and real-estate marketplace platforms
+- 🛠️ Focused on system design, API architecture, performance tuning, and cloud deployment
+- 🤖 Exploring AI-assisted engineering workflows for incident analysis, automation, and productivity
+- 🌐 Portfolio: [iridescent-zuccutto-1f4928.netlify.app](https://iridescent-zuccutto-1f4928.netlify.app/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/rahul-singh-3633a780/) | [GitHub](https://github.com/raahul1912)
 
 ---
 
 ### Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript  
-**Backend:** Node.js, NestJS, Express, GraphQL, REST APIs  
-**Data & Messaging:** MongoDB, MySQL, Redis, Kafka, PostgreSQL  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
-**AI & Tools:** OpenCode, AI Agents, Jest, Mocha, Chai, SonarQube
+**Frontend**  
+React, Next.js, TypeScript, JavaScript
+
+**Backend**  
+Node.js, NestJS, Express.js, REST APIs, GraphQL
+
+**Data & Messaging**  
+MongoDB, MySQL, PostgreSQL, Redis, Kafka
+
+**Cloud & DevOps**  
+AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD
+
+**AI & Engineering Tools**  
+OpenCode, AI Agents, Jest, Mocha, Chai, SonarQube
 
 ---
 
