@@ -17,25 +17,8 @@ I’m a Technical Lead with 9+ years of experience designing and delivering scal
 **Frontend:** React, Next.js, TypeScript, JavaScript  
 **Backend:** Node.js, NestJS, Express, GraphQL, REST APIs  
 **Data & Messaging:** MongoDB, MySQL, Redis, Kafka, PostgreSQL  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD
-
----
-
-### 💼 Experience Highlights
-
-- **Technical Lead — Bridgenext** (Feb 2021 – Present)
-  - Led a team of 6 engineers in architecting and developing scalable microservices.
-  - Built AI-powered engineering workflows for RCA, change-impact analysis, and automated fix/test generation.
-  - Designed and delivered 100+ REST APIs and reusable React components.
-  - Improved deployment reliability and reduced application load time by 50%.
-
-- **Software Engineer — smartSense** (Jan 2019 – Feb 2021)
-  - Modernized a monolithic platform to microservices on AWS using Node.js, TypeScript, and Kafka.
-  - Delivered multilingual support and GraphQL POCs for business growth.
-
-- **Backend Developer — I-Link Infosoft** (Jan 2017 – Jan 2019)
-  - Built scalable microservices for a cloud-based tax platform serving 200k+ users.
-  - Executed cross-data-center Kafka mirroring for reliable data migration.
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
+**AI & Engineering Tools:** OpenCode, AI Agents, Jest, Mocha, Chai, SonarQube
 
 ---
 
